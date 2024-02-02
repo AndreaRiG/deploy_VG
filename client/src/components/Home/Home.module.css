@@ -1,0 +1,191 @@
+* {
+
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+ 
+}
+
+/* @media (min-width: 1200px) {
+  .main-container {
+    width: 1150px;
+    display: flex;
+  }
+} */
+.container_principal{
+  width: 1920px;
+ 
+ display: flex; 
+  background-color: #E4E7F5;
+  height: 300px;
+  box-shadow: 0 5px rgba(0, 0, 0, 0.2);
+}
+/* .container1 {
+
+  background-color: #e4e7f5;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+} */
+
+.filtros_1 {
+  
+  
+  border-radius: none;
+  position: absolute;
+  left: 680px;
+  
+  
+}
+
+/* .paginadoPosition {
+  display: flex;
+  justify-content: center;
+} */
+
+.paginadoChild {
+  /* border: solid 5px rgb(168, 87, 87); */
+  position: relative;
+  left: 800px;
+  top: 40px;
+}
+
+.ActualPage {
+  /* border: solid 5px rgb(59, 7, 43); */
+  position: relative;
+  top: 20px;
+  left: 850px;
+  font-size: 18px;
+  font-family: 'Open Sans', sans-serif;
+  color: #151B32;
+}
+
+.botonprevious {
+ 
+  position: relative;
+  top: 80px;
+  left: 730px;
+
+  background: #9B1F84;
+  border-radius: 5px;
+  font-size: 16px;
+  color: #ffffff;
+  height: 30px;
+  width: 140px;
+}
+
+.botonnext {
+ 
+  position: relative;
+  top: 80px;
+  left: 780px;
+
+  background: #9B1F84;
+  border-radius: 5px;
+  font-size: 16px;
+  color: #ffffff;
+  height: 30px;
+  width: 140px;
+}
+
+.searchPosition {
+  position: relative;
+   left: 290px; 
+  top: 195px;
+}
+
+
+.crearboton {
+  position: relative;
+  background: #9B1F84;
+  border-radius: 5px;
+  font-size: 16px;
+  color: #ffffff;
+  height: 30px;
+  width: 200px;
+  left: 200px;
+  top: 240px;
+}
+
+.Recharge {
+  position: relative;
+  background: #9B1F84;
+  border-radius: 5px;
+  font-size: 16px;
+  color: #ffffff;
+  height: 30px;
+  width: 200px;
+  left: 520px;
+  top: 250px;
+
+}
+
+
+
+
+.tarjetas {
+  /* margin: top 110px;  */
+  justify-content: space-between;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  position: absolute;
+  top: 300px;
+  padding: 30px;
+}
+
+/* .cargar {
+  border: solid;
+  background-color: rgb(7, 38, 67);
+  font-family: "Roboto";
+  font-style: normal;
+  flex-direction: row;
+} */
+
+/* .container3{
+border: solid 5px rgb(103, 23, 222);
+background-color: aqua;
+font-style: normal;
+font-size: 14px;
+position: relative;
+left: 100px;
+top: 100px;
+
+} */
+
+
+
+
+
+
+
+.Forigen{
+    border: solid 5px rgb(5, 5, 255);
+    position: relative;
+    left: 900px;
+    top: 60px;
+
+}  
+
+
+
+
+
+
+
+
+ /* @media (min-width: 390px) {
+
+    .container_principal {
+      width: 390px;
+      background-color: #07175b;
+      box-shadow: 0 5px rgba(0, 0, 0, 0.2);
+    }
+
+    .filtros_1 {
+      width: 390px;
+      border:#9B1F84 1px solid;
+      position: absolute;
+    }
+
+    
+
+  }  */

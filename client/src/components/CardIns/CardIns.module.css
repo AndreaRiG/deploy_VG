@@ -1,0 +1,10 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+   
+  }
+  .informacion{
+    border: solid 5px blueviolet;
+    background: #9B1F84;
+  }

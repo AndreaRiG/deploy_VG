@@ -1,0 +1,68 @@
+.campos {
+  /* background-color: #e6eaf6;
+  color: #232323;
+  border: 1px solid #05294a;
+  font-size: 16px;
+  border-radius: 5px;
+  margin-bottom: 10px;
+  margin-top: 10px; */
+  width: 100%;
+  padding: 6px;
+  font-size: 14px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.form {
+  /* width: 100vw;
+  height: 100vh; */
+  display: flex;
+}
+
+.boton {
+  background: #6b046d;
+  border-radius: 5px;
+  font-size: 16px;
+  color: #ffffff;
+  height: 30px;
+  width: 200px;
+}
+
+.botonHome {
+  background: #6b046d;
+  border-radius: 5px;
+  font-size: 16px;
+  color: #ffffff;
+  height: 30px;
+  width: 200px;
+  
+}
+
+.titulo {
+  font-family: "Roboto";
+  font-style: normal;
+  font-size: 44px;
+  color: #151b32;
+}
+
+.contenido {
+  padding: 100px;
+  /* justify-content: center; */
+  /* align-items: center; */
+  font-family: "Roboto";
+  font-style: normal;
+  font-size: 16px;
+  margin: 0px auto; 
+  background-color: #E4E7F5;
+  box-shadow: 0 5px rgba(0, 0, 0, 0.2);
+  border-radius: 15px;
+}
+
+
+.errorMsg{
+  font-family: "Roboto";
+  font-style: normal;
+  font-size: 24px;
+  color: #f50752;
+
+}

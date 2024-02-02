@@ -1,0 +1,10 @@
+.bottNav {
+  text-decoration: none;
+  color: white;
+  background-color: #9b1f84;
+  border-bottom: none;
+  width: 30px;
+  height: 30px;
+  border-radius:5px ;
+  box-shadow: none;
+}

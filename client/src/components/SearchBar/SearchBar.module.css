@@ -1,0 +1,26 @@
+.search  {
+    background-color: #e6eaf6;
+    color: #232323;
+    border: 1px solid #05294A;
+    padding: 10px;
+    font-size: 14px;
+  
+    border-radius: 5px;
+    width: 200px;
+    /* Tres valores (arriba, izquierda/derecha, abajo) */
+padding: 10px 10px 10px 10px;
+  }
+
+  .botonsearch{
+    background: #431D8E;
+    border-radius: 4px;
+    
+    font-size: 16px;
+    color: #ffffff;
+    height: 30px;
+  width: 80px;
+ /* Tres valores (arriba, izquierda/derecha, abajo) */
+ 
+  }
+
+ 

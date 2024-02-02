@@ -1,0 +1,115 @@
+/* 
+.main-container {
+  /* border:3px solid orange; 
+  width: 374px;
+  height: 682px;
+  background-color: #F5F6FA;
+} */
+/* position: relative; */
+.container {
+  width: 1920px;
+  height: 1080px;
+  background-image: url("desktop_home_PI.png");
+  background-repeat: no-repeat;
+  
+}
+  
+ 
+/* @media (min-width: 390px){
+  .container {
+    background-image: url("mobile_landing_bg.png");
+  } 
+}*/
+.title {
+  /* Cuatro valores (arriba, derecha, abajo, izquierda) */
+  padding: 300px 20px 0px 90px;
+  width: 650px;
+  height: auto;
+
+  font-family: "Open Sans", sans-serif;
+  font-size: 60px;
+  font-weight: bold;
+  position: relative;
+  text-align: left;
+  color: #431d8e;
+}
+
+/* .boton {
+  border: 2px solid rgb(36, 2, 255);
+  background-color: #9b1f84;
+  padding: 34px 80px 30px 110px;
+  
+  /* Cuatro valores (arriba, derecha, abajo, izquierda) */
+/* padding: 100px 0px 0px 90px;
+  border-radius: 10px; */
+
+.boton {
+  /* Cuatro valores (arriba, derecha, abajo, izquierda) */
+  height: 50px;
+  width: 220px;
+  border-bottom: none;
+  background-color: #9b1f84;
+  border-radius: 10px;
+
+  text-align: center;
+  font-size: 22px;
+  font-family: "Open Sans", sans-serif;
+  font-weight: bold;
+  color: #ffffff;
+  cursor: pointer;
+}
+.aver {
+  /* Cuatro valores (arriba, derecha, abajo, izquierda) */
+
+  padding: 30px 20px 0px 90px;
+}
+/* .h1{
+  font-size: 18px;
+  font-family: "Open Sans", sans-serif;
+}  */
+
+/* .container {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+
+  background-image: url("desktop_home_PI.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+} */
+
+/* .boton {
+  background-color: #9B1F84;
+  position: absolute;
+  left: 150px; 
+  top: 580px;
+  width: 600px;
+  height: 100px;
+  border-radius: 10px;
+  font-size: 30px;
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+  
+} */
+
+/* ------------------------------------- */
+
+/*.title {
+   Cuatro valores (arriba, derecha, abajo, izquierda) 
+
+  width: 300px;
+  height: auto;
+
+  font-family: "Open Sans", sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+  position: relative;
+  text-align: center;
+  color: #431d8e;
+}*/
+
+/* @media (min-width: 390px) {
+  .container {
+    background-image: url("mobile_landing_bg.png");
+  }} */
