@@ -1,2 +1,7 @@
 # Ignorar la carpeta node_modules
 node_modules/
+
+
+# dotenv enviroment varialbes file
+.env
+.env.test
